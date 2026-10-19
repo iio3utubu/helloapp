@@ -8,4 +8,9 @@ class Program()
 
         return 0;
     }
+
+    public static void greetWhite()
+    {
+        System.Console.WriteLine("hello white");
+    }
 }
