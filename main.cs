@@ -6,6 +6,9 @@ class Program()
     {
         System.Console.WriteLine("hello everyone");
 
+        greetBlack();
+        greetWhite();
+
         return 0;
     }
 
